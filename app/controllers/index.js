@@ -1,4 +1,4 @@
-var MaterialControls = require('MaterialControls');
+var MaterialControls = require('koke.materialcontrols');
 //actually exist 3 sizes of checkbox big, medium and small
 //to make use of them you just need to create the one you need and change their position properties
 //you can check their value (checked:true or unchecked:false) using checkbox.checked
